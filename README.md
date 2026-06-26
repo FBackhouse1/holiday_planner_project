@@ -12,6 +12,11 @@ The repository contains both the data retrieval notebook and the Streamlit app. 
 - Adjust recommendation priorities using Streamlit sliders
 - Explore restaurants, bars, nightclubs, attractions and places to stay on an interactive map
 
+## Live App
+
+The deployed Streamlit app is available here:  
+[Holiday Planner App](https://holidayplannerproject.streamlit.app/)
+
 ## Repository structure
 
 ```text
